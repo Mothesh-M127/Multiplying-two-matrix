@@ -1,14 +1,24 @@
 # Multiplying-two-matrix
 
 ## AIM:
+To write a python program to multiply two arrays using numpy.
 
 ## ALGORITHM:
-
 ### Step 1:
+Import the numpy as np.
+
 ### Step 2:
+Create a two list and enter the count of the array.
+
 ### Step 3:
-### Step 4:
+Using the for loop append the entries in two lists.
+
+#### Step 4:
+After add the all values multiply the two lists.
+
 ### Step 5:
+Print the product of the two array.
+
 
 ## PROGRAM: 
 ```
