@@ -38,4 +38,4 @@ print("Product of two arrays is:",s)
 ![multi](https://user-images.githubusercontent.com/94170892/153348981-d244567d-c00f-44d4-a73c-9767c488b15f.png)
 
 ## RESULT:
-
+The above program is successfully to multiply two arrays using numpy.
